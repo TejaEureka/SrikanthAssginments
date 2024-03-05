@@ -1,0 +1,14 @@
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\bin\Debug\net8.0\Assignment-4.exe
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\bin\Debug\net8.0\Assignment-4.deps.json
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\bin\Debug\net8.0\Assignment-4.runtimeconfig.json
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\bin\Debug\net8.0\Assignment-4.dll
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\bin\Debug\net8.0\Assignment-4.pdb
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.AssemblyInfoInputs.cache
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.AssemblyInfo.cs
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.csproj.CoreCompileInputs.cache
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.dll
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\refint\Assignment-4.dll
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.pdb
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\Assignment-4.genruntimeconfig.cache
+C:\Users\lohit\OneDrive\Desktop\Eureka\.net\All Assignments\Assignment-4\obj\Debug\net8.0\ref\Assignment-4.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNPdDT1QGULmdXcUI9EI5bAkVDn/kvBSehYpW+YYffzfm8yB5YkEMrU6eev8nlh2muhqaL+0XnBiHmR6o8Ecfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lohit\\OneDrive\\Desktop\\Eureka\\.net\\All Assignments\\Assignment-5\\8\\8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lohit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lohit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lohit\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
